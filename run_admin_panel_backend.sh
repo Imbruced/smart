@@ -1,0 +1,2 @@
+(cd iotweb; ./gradlew bootRun)
+
